@@ -1,4 +1,3 @@
--![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 -  👋 Hi, I’m @KwakNW
 - 
 - 👀 I’m interested in ...
