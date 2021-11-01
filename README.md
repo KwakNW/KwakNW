@@ -1,3 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Naewon&animation=fadeIn)
+
+<h3 align='center'> :star2: Tech Stack <h3>
+
+  
+  
+
+
 -  👋 Hi, I’m @KwakNW
 - 
 - 👀 I’m interested in ...
