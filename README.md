@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Naewon&fontAlign=70&animation=fadeIn)
 
 <h3 align='center'> 🌟 Tech Stack 🌟 </h3>
-<p align='center'> Techs that i've used at least once </p>
+<p> Techs that i've used at least once </p>
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
   
   
