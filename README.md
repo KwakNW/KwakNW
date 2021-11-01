@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Naewon&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Naewon&fontAlign=70&animation=fadeIn)
 
-<h3 align='center'> :star2: Tech Stack :star2: <h3>
+<h3 align='center'> 🌟 Tech Stack 🌟 </h3>
+
 
   
   
