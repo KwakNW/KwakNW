@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Naewon&fontAlign=70&animation=fadeIn)
 
 <h3 align='center'> 🌟 Tech Stack 🌟 </h3>
-<p> Techs that i've used at least once </p>
+<p align='center'> Techs that i've used at least once </p>
 
 
   
